@@ -1,0 +1,322 @@
+@media (max-width: 575.98px) {
+  /* NAVBAR CSS START */
+  .navbar{
+    padding-top: 10px;
+  }
+  .navbar a img{
+    transform: scale(0.8);
+  }
+  /* NAVBAR CSS END */
+  /* BANNER CSS START */
+  #banner {
+    padding-top: 125px;
+    padding-bottom: 75px;
+  }
+  .banner-text h1 {
+    font-size: 12px;
+    line-height: 24px;
+    margin-bottom: 20px;
+  }
+  .banner-text h1::after {
+    bottom: -8px;
+  }
+  .banner-text p {
+    font-size: 11px;
+    margin-bottom: 20px;
+  }
+  .banner-btn a {
+    font-size: 12px;
+    padding: 10px 12px 11px 13px;
+  }
+  .banner-text-wrapper ul {
+    bottom: -50px;
+    left: 44%;
+  }
+  /* BANNER CSS END */
+  /* STORY CSS START */
+  #story {
+    margin-top: 15px;
+    margin-bottom: 45px;
+  }
+  .story-img img{
+    transform: scale(0.7);
+  }
+  .story-img {
+    text-align: center !important;
+  }
+  .story-text h3 {
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  .story-text p {
+    font-size: 12px;
+  }
+  .story-text p span {
+    margin-top: 10px;
+  }
+  .story-btn a {
+    font-size: 12px;
+    padding: 10px 11px 11px 12px;
+    margin-top: 10px;
+  }
+  /* STORY CSS END */
+  /* STORY CSS START */
+  #watch {
+    padding: 110px 0;
+  }
+  .watch-icon i {
+    font-size: 50px;
+  }
+  .watch-text h5 {
+    font-size: 12px;
+    margin-top: 15px;
+  }
+  /* STORY CSS END */
+  /* EXPERTISE CSS START */
+  .common-title h3 {
+    font-size: 18px;
+    margin-top: 55px;
+    margin-bottom: 8px;
+  }
+  .common-title p {
+    font-size: 10px;
+    margin-bottom: 40px;
+  }
+  .common-title p::after {
+    bottom: -10px;
+    width: 35px;
+  }
+  .expertise-up {
+    margin-bottom: 0;
+  }
+  .expertise-item {
+    margin-bottom: 25px;
+  }
+  .expertise-icon img {
+    transform: scale(0.7);
+  }
+  .expertise-text h5 {
+    font-size: 11px;
+    margin-top: 5px;
+  }
+  .expertise-text p {
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 5px;
+  }
+  /* EXPERTISE CSS END */
+  /* TEAM CSS START */
+  #team {
+    padding-top: 50px;
+    margin-top: 25px;
+  }
+  .team-top-text h3 {
+    font-size: 16px;
+  }
+  .team-top-text p {
+    font-size: 10px;
+    margin-bottom: -10px;
+  }
+  .team-top-text p::after {
+    bottom: -10px;
+    width: 30px;
+  }
+  .team-item {
+    margin-bottom: -70px;
+    transform: scale(0.7);
+  }
+  .team-text {
+    padding: 16px 60px 18px 62px;
+  }
+  .team-text h4 {
+    font-size: 12px;
+  }
+  .team-text p {
+    font-size: 10px;
+    margin-top: 5px;
+  }
+  .team-bottom-text p {
+    font-size: 10px;
+    padding-top: 50px;
+  }
+  .team-btn a {
+    font-size: 8px;
+    padding: 9px 10px 10px 11px;
+    margin-top: 14px;
+  }
+  /* TEAM CSS END */
+
+
+  /* STORY CSS START */
+  .work-btn a {
+    font-size: 8px;
+    padding: 4px 5px 6px;
+    margin-right: 2px;
+  }
+  .work-bg-top {
+    margin-top: 30px;
+  }
+  .work-top1{
+    height: 60px;
+  }
+  .work-top2{
+    height: 60px;
+  }
+  .work-top3{
+    height: 60px;
+  }
+  .work-top4{
+    height: 60px;
+  }
+  .work-top5{
+    height: 60px;
+  }
+  .work-top6{
+    height: 60px;
+  }
+  .work-bottom1{
+    height: 60px;
+  }
+  .work-bottom2{
+    height: 60px;
+  }
+  .work-bottom3{
+    height: 60px;
+  }
+  .work-bottom4{
+    height: 60px;
+  }
+  .work-bottom5{
+    height: 60px;
+  }
+  .work-bottom6{
+    height: 60px;
+  }
+  .work-bottom-btn a {
+    font-size: 8px;
+    padding: 9px 10px 10px 11px;
+    margin: 28px 0;
+  }
+  /* STORY CSS END */
+  /* TESTIMONIAL CSS START */
+  #testimonial {
+    padding-top: 50px;
+    padding-bottom: 80px;
+  }
+  .slick-slide img {
+    transform: scale(0.8);
+  }
+  .testimonial-text p {
+    font-size: 10px;
+    padding-top: 25px;
+  }
+  .testimonial-text h3 {
+    font-size: 12px;
+    padding-top: 15px;
+  }
+  .testimonial-text h6 {
+    font-size: 10px;
+    padding-top: 5px;
+  }
+  .test-slider ul {
+    bottom: -50px;
+    left: 44%;
+  }
+  .test-slider ul li {
+    margin-left: 5px;
+  }
+  .test-slider ul li button {
+    width: 10px;
+    height: 10px;
+  }
+  /* TESTIMONIAL CSS END */
+  /* CLIENT CSS START */
+  #client {
+    margin-bottom: 60px;
+  }
+  .client-right-text h3 {
+    font-size: 15px;
+  }
+  .name input {
+    padding: 8px 0 9px 15px;
+    margin-bottom: 10px;
+  }
+  .email input {
+    padding: 8px 0 9px 15px;
+    margin-bottom: 10px;
+  }
+  .subject input {
+    padding: 8px 0 9px 15px;
+    margin-bottom: 10px;
+  }
+  .massage textarea {
+    padding: 10px 0 0 15px;
+  }
+  .submit-btn button {
+    font-size: 12px;
+    padding: 8px 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  .client-left-title h3 {
+    font-size: 15px;
+  }
+  .client-img {
+    margin-top: 30px;
+  }
+  .client-img img {
+    transform: scale(0.7);
+  }
+  /* CLIENT CSS END */
+  /* FOOTER CSS START */
+  .footer-logo img{
+    transform: scale(0.9);
+  }
+  .footer-left-text p {
+    font-size: 12px;
+    line-height: 18px;
+    margin: 10px 0 20px;
+  }
+  .footer-middle-text h4 {
+    font-size: 14px;
+    padding-bottom: 25px;
+    padding-top: 15px;
+  }
+  .location-icon i {
+    font-size: 18px;
+  }
+  .location-text p {
+    font-size: 12px;
+    line-height: 16px;
+    padding-right: 15px;
+  }
+  .phone {
+    padding-top: 15px;
+  }
+  .phone-icon i {
+    font-size: 18px;
+  }
+  .phone-text p {
+    font-size: 12px;
+  }
+  .footer-right-text h4 {
+    font-size: 14px;
+    margin-bottom: 18px;
+    margin-top: 40px;
+  }
+  .footer-right-icon {
+    margin-top: 15px;
+  }
+  .copyright-part {
+    margin-top: 35px;
+  }
+  .copyright-left a {
+    font-size: 7px;
+    margin-right: 5px;
+  }
+  .copyright-right p {
+    font-size: 9px;
+    margin-top: 13px;
+  }
+  /* FOOTER CSS END */
+}
